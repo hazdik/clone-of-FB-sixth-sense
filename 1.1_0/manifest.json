@@ -1,0 +1,31 @@
+{
+   "background": {
+      "scripts": [ "lib/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "assets/icon19_inactive.png",
+         "38": "assets/icon38_inactive.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Facebook Sixth Sense"
+   },
+   "description": "Lets you know you whenever your friends start writing to you on Facebook",
+   "externally_connectable": {
+      "matches": [ "*://*.facebook.com/*" ]
+   },
+   "icons": {
+      "128": "assets/icon128.png",
+      "16": "assets/icon16.png",
+      "256": "assets/icon256.png",
+      "32": "assets/icon32.png",
+      "96": "assets/icon96.png"
+   },
+   "key": “removed“,
+   "manifest_version": 2,
+   "name": "Facebook Sixth Sense",
+   "permissions": [ "declarativeContent", "storage", "*://*.facebook.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1",
+   "web_accessible_resources": [ "lib/hook.js" ]
+}
