@@ -4,6 +4,6 @@ FB sent a C&amp;D letter to https://github.com/Morhaus/facebook-sixth-sense
 yolo here's the code. FB sucks.
 Got the extension from: /Users/calefornia/Library/Application Support/Google/Chrome/Default/Extensions/{id}
 
-I don't know what the keys are under the metadata folder, but I went ahead and deleted them just in case. I'll try to add this as an unpacked extension later to confirm it works without them elsewhere.
+This still works, so enable dev mode and load this as an unpacked extension. (you probably already knew that :)
 
-Mark, you are bad for the internet.
+Mark, you are bad for the internet. I don't like you.
