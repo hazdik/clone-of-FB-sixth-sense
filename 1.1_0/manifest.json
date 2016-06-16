@@ -21,7 +21,6 @@
       "32": "assets/icon32.png",
       "96": "assets/icon96.png"
    },
-   "key": “removed“,
    "manifest_version": 2,
    "name": "Facebook Sixth Sense",
    "permissions": [ "declarativeContent", "storage", "*://*.facebook.com/*" ],
